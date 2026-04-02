@@ -25,4 +25,4 @@
 **2.** В Python массив = список.
 
 ### Код
-[binary_search](Глава 1/binary_search.py)
+[binary_search](Глава%201/binary_search.py)
