@@ -11,7 +11,7 @@ def binary_search(arr, item):
             high = mid - 1
         else:                # Мало
             low = mid + 1
-        return None          # Значения не существует
+    return None          # Значения не существует
 
  my_list = [1, 3, 5, 7, 9]   # Протестируем
 
