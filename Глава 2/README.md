@@ -38,3 +38,6 @@
 
 **Сложность:** O(n^2)
 
+### Код  
+
+[selection_sort](selection_sort.py)
